@@ -2,7 +2,7 @@
 ![P_lat](https://github.com/digvijaytatrari/MediPricer/assets/37079322/deb5958f-5b22-4fad-9988-e0951740063a)
 
 
-## Doctor Fee Prediction
+# Doctor Fee Prediction
 Our objective is to develop a user-friendly web interface for predicting doctor consultation fees. The predictive model employed in this project was trained on a meticulously curated dataset derived from web scraping Practo, utilizing Selenium for data acquisition. Python's Pandas library facilitated robust data cleaning and preprocessing, ensuring the reliability and accuracy of our predictions.
 <br>
 
@@ -29,8 +29,9 @@ Our objective is to develop a user-friendly web interface for predicting doctor 
 
 ![Screenshot 2024-03-31 163939](https://github.com/digvijaytatrari/MediPricer/assets/37079322/b66c15e9-aec5-4a94-9a72-118384583487)
 
+<be>
 
-
+## Steps in Model Creation and Storing
 
 1. Data Collection: Acquired doctor-related data from Practo through web scraping methodologies employing Selenium.
 
