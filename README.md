@@ -65,11 +65,28 @@ Our objective is to develop a user-friendly web interface for predicting doctor 
 
 ![Screenshot 2024-03-31 170504](https://github.com/digvijaytatrari/MediPricer/assets/37079322/70fcf131-1d76-4f28-9050-9fb36e0bb293)
 
+## Obstacles and Insights
 
+- Data Retrieval: Initially, we encountered challenges in extracting data from the server, requiring exploration and problem-solving to navigate the process effectively.
 
+- Model Exploration: Delved into various machine learning models to pinpoint the most suitable candidates for our prediction task.
 
+- Hyperparameter Optimization: Tuning hyperparameters proved time-intensive, given the constraints on model development time.
 
+- Webpage Development: The creation of the webpage posed both challenges and excitement as we ventured into this new concept, fostering a rewarding learning experience.
 
+<br>
+
+## Conclusion
+- Enhancing Healthcare Accessibility: Providing patients with insights into potential costs empowers them to pursue suitable medical treatment without the hindrance of fee-related uncertainty.
+
+- Building Transparency and Trust: Transparent fee estimates cultivate trust and confidence in medical services, strengthening the bond between doctors and patients and fostering long-lasting relationships built on mutual respect.
+
+- Streamlining Provider Operations: By making fee estimates readily accessible, administrative tasks are streamlined, resulting in smoother processes and ultimately enhancing the overall efficiency of healthcare service delivery.
+
+- Patient Empowerment: Equipping patients with knowledge about healthcare costs enables them to make informed decisions and take charge of their healthcare journey with confidence.
+
+- Strengthening Patient-Provider Communication: Clear fee estimates facilitate open and honest discussions between patients and providers, leading to improved communication and better treatment outcomes.
 
 
 
