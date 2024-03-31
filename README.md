@@ -54,7 +54,16 @@ Our objective is to develop a user-friendly web interface for predicting doctor 
 
 ## Doctor Consultation Fee Prediction Web Application
 
+#### User Input Interface
+- Here users gives its input for predicting Doctor Fee
+<br>
 
+![Screenshot 2024-03-31 170441](https://github.com/digvijaytatrari/MediPricer/assets/37079322/7e686242-a385-47d7-8955-beb1ecf72dd5)
+
+- After submitting input Model will predict and show the Doctor Fee
+<br>
+
+![Screenshot 2024-03-31 170504](https://github.com/digvijaytatrari/MediPricer/assets/37079322/70fcf131-1d76-4f28-9050-9fb36e0bb293)
 
 
 
