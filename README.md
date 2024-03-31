@@ -13,11 +13,6 @@ Our objective is to develop a user-friendly web interface for predicting doctor 
 
 ![Screenshot 2024-03-31 163401](https://github.com/digvijaytatrari/MediPricer/assets/37079322/7be954e5-0d28-472d-8365-4d0b17978308)
 <br>
-- The dataset predominantly features doctors with degrees such as MBBS, MD, and BDS, showcasing their prevalence within the profession.
-<be>
-
-
-![Screenshot 2024-03-31 163829](https://github.com/digvijaytatrari/MediPricer/assets/37079322/3f7dac51-ca3d-46fc-8982-af4daec714f8)
 
 
 - The dataset highlights three primary specialties that dominate among doctors:
