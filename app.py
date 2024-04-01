@@ -3,7 +3,7 @@ import pandas as pd
 from sklearn.preprocessing import StandardScaler
 import joblib
 
-app = Flask(__name__)
+app = Flask(__name__, static_url_path='/static')
 
 # Load the pre-trained model
 file_path = 'random_forest_regression_model.pkl'
@@ -95,7 +95,7 @@ def index():
         # Make predictions for the processed data point
         predictions = loaded_model.predict(test_data)
 
-        predicted_fee = predictions[0]
+        predicted_fee = int(predictions[0])
 
         # Render template with form data and predicted fee
         return render_template('result.html', predicted_fee=predicted_fee)
