@@ -20,6 +20,9 @@ Our objective is to develop a user-friendly web interface for predicting doctor 
   - Gynecology
   - Pediatrics
 
+![Screenshot 2024-03-31 163939](https://github.com/digvijaytatrari/MediPricer/assets/37079322/ab974d65-9d12-4588-8820-d366e03f079b)
+
+
 <br>
 
 
