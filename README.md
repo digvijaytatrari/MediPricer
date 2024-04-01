@@ -22,7 +22,7 @@ Our objective is to develop a user-friendly web interface for predicting doctor 
 
 <br>
 
-![Screenshot 2024-03-31 163939](https://github.com/digvijaytatrari/MediPricer/assets/37079322/b66c15e9-aec5-4a94-9a72-118384583487)
+
 
 <be>
 
@@ -54,12 +54,12 @@ Our objective is to develop a user-friendly web interface for predicting doctor 
 - Here users gives its input for predicting Doctor Fee
 <br>
 
-![Screenshot 2024-03-31 170441](https://github.com/digvijaytatrari/MediPricer/assets/37079322/7e686242-a385-47d7-8955-beb1ecf72dd5)
+![Screenshot 2024-04-01 083005](https://github.com/digvijaytatrari/MediPricer/assets/37079322/4060776f-1a93-459b-945d-bc807ffe45ad)
 
 - After submitting input Model will predict and show the Doctor Fee
 <br>
 
-![Screenshot 2024-03-31 170504](https://github.com/digvijaytatrari/MediPricer/assets/37079322/70fcf131-1d76-4f28-9050-9fb36e0bb293)
+![Screenshot 2024-04-01 081258](https://github.com/digvijaytatrari/MediPricer/assets/37079322/a8cfdfbe-4859-4c9a-96a6-dc83b8b01338)
 
 ## Obstacles and Insights
 
